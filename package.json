@@ -41,7 +41,6 @@
     "ahooks": "^3.7.8",
     "big.js": "^6.2.1",
     "bignumber.js": "^9.1.2",
-    "connectkit": "^1.5.3",
     "copy-to-clipboard": "^3.3.3",
     "decimal.js-light": "^2.5.1",
     "ethers": "5",
